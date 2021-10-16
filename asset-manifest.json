@@ -1,32 +1,25 @@
 {
   "files": {
-    "main.css": "/web/static/css/main.7641367e.chunk.css",
-    "main.js": "/web/static/js/main.f2fe03c8.chunk.js",
-    "main.js.map": "/web/static/js/main.f2fe03c8.chunk.js.map",
-    "runtime-main.js": "/web/static/js/runtime-main.594eafca.js",
-    "runtime-main.js.map": "/web/static/js/runtime-main.594eafca.js.map",
-    "static/js/2.51b82e96.chunk.js": "/web/static/js/2.51b82e96.chunk.js",
-    "static/js/2.51b82e96.chunk.js.map": "/web/static/js/2.51b82e96.chunk.js.map",
-    "static/js/3.fc3e9315.chunk.js": "/web/static/js/3.fc3e9315.chunk.js",
-    "static/js/3.fc3e9315.chunk.js.map": "/web/static/js/3.fc3e9315.chunk.js.map",
-    "index.html": "/web/index.html",
-    "static/css/main.7641367e.chunk.css.map": "/web/static/css/main.7641367e.chunk.css.map",
-    "static/js/2.51b82e96.chunk.js.LICENSE.txt": "/web/static/js/2.51b82e96.chunk.js.LICENSE.txt",
-    "static/media/6lik.147974cf.jpg": "/web/static/media/6lik.147974cf.jpg",
-    "static/media/bakhtiari.01913169.jpg": "/web/static/media/bakhtiari.01913169.jpg",
-    "static/media/barg.fca8de73.jpg": "/web/static/media/barg.fca8de73.jpg",
-    "static/media/fesengon.da6a21dc.jpg": "/web/static/media/fesengon.da6a21dc.jpg",
-    "static/media/gheime.78e3d04e.jpg": "/web/static/media/gheime.78e3d04e.jpg",
-    "static/media/ghormehsabzi.847380bf.jpg": "/web/static/media/ghormehsabzi.847380bf.jpg",
-    "static/media/goge.1228c2c3.jpg": "/web/static/media/goge.1228c2c3.jpg",
-    "static/media/karafs.c123c26d.jpg": "/web/static/media/karafs.c123c26d.jpg",
-    "static/media/kobide.9660b18b.jpg": "/web/static/media/kobide.9660b18b.jpg",
-    "static/media/negindar.74cb525a.jpg": "/web/static/media/negindar.74cb525a.jpg"
+    "main.css": "/react-app-paint/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-app-paint/static/js/main.6f46ce7a.chunk.js",
+    "main.js.map": "/react-app-paint/static/js/main.6f46ce7a.chunk.js.map",
+    "runtime-main.js": "/react-app-paint/static/js/runtime-main.fccb6424.js",
+    "runtime-main.js.map": "/react-app-paint/static/js/runtime-main.fccb6424.js.map",
+    "static/js/2.e161edda.chunk.js": "/react-app-paint/static/js/2.e161edda.chunk.js",
+    "static/js/2.e161edda.chunk.js.map": "/react-app-paint/static/js/2.e161edda.chunk.js.map",
+    "static/js/3.63fb59fc.chunk.js": "/react-app-paint/static/js/3.63fb59fc.chunk.js",
+    "static/js/3.63fb59fc.chunk.js.map": "/react-app-paint/static/js/3.63fb59fc.chunk.js.map",
+    "index.html": "/react-app-paint/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-app-paint/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e161edda.chunk.js.LICENSE.txt": "/react-app-paint/static/js/2.e161edda.chunk.js.LICENSE.txt",
+    "static/media/fill.4e211ed6.svg": "/react-app-paint/static/media/fill.4e211ed6.svg",
+    "static/media/pencil.962e7af9.svg": "/react-app-paint/static/media/pencil.962e7af9.svg",
+    "static/media/rectangle.5112e12f.svg": "/react-app-paint/static/media/rectangle.5112e12f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.594eafca.js",
-    "static/js/2.51b82e96.chunk.js",
-    "static/css/main.7641367e.chunk.css",
-    "static/js/main.f2fe03c8.chunk.js"
+    "static/js/runtime-main.fccb6424.js",
+    "static/js/2.e161edda.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6f46ce7a.chunk.js"
   ]
 }
